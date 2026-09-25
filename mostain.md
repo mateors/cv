@@ -61,7 +61,7 @@ Accomplished **Computer Science Educator and Senior Software Engineer** with **1
   Department of Computer Science and Engineering, Daffodil International University  
   **Email:** deanfsit@daffodilvarsity.edu.bd | drfokhray@daffodilvarsity.edu.bd  
   **Phone:** +8809617901233, 9138234 (Ext-65108) | **Cell:** +88 01713493250  
-  **Profile:** https://daffodilvarsity.edu.bd
+  **Profile:** [https://daffodilvarsity.edu.bd](https://faculty.daffodilvarsity.edu.bd/profile/cse/fokhray.html)
 
 * **Dr. Miguel A. Clarke**  
   Engineer & Strategist, Silicon Philosophies  
