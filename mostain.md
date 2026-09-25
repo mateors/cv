@@ -1,7 +1,7 @@
 # MD MOSTAIN BILLAH
 **Lecturer / Trainer in Computer Science & Artificial Intelligence**  
-Dhanmondi, Dhaka, Bangladesh | +8801768760886 | billahmdmostain@gmail.com | admin@mateors.com  
-[GitHub Profile](https://github.com) | [LinkedIn Profile](https://linkedin.com)
+Dhanmondi, Dhaka, Bangladesh | +8801768760886 | mostain@lxroot.com | admin@mateors.com  
+[GitHub Profile](https://github.com/mateors) | [LinkedIn Profile](https://www.linkedin.com/in/billahmdmostain)
 
 ## 1. PROFESSIONAL SUMMARY
 Accomplished **Computer Science Educator and Senior Software Engineer** with **18+ years of industry experience** and a proven track record in academic training, workshop facilitation, and curriculum delivery. Specializing in **Golang backend architecture, Full-Stack Web Development, and Applied AI productivity tools**. Adept at bridging the gap between complex computer science theory and real-world production-grade software engineering. Passionate about project-based learning, mentorship, and equipping university students with industry-ready technical and AI literacies. 
